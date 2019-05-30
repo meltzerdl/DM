@@ -1,29 +1,28 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests health equity, the environment, and spatial distribution of disease.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MA in Geography
+    institution: University of California, Santa Barbara
+    year: 2019
+  - course: Master in Public Health
+    institution: University of California, Berkeley
+    year: 2014
+  - course: ScB in Human Biology
+    institution: Brown University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+email: "dmeltzer [at] ucsb.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Health Equity
+- Environmental Justice
+- Spatial analysis, mapping, and GIS
+name: Dan Meltzer
 organizations:
-- name: Stanford University
+- name: University of California, Santa Barbara
   url: ""
-role: Professor of Artificial Intelligence
+role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,16 +32,14 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=v2xbZQkAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/meltzerdl
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Dan Meltzer is a current researcher in the Geography Department at University of California, Santa Barbara. He focuses on understanding how the spatial extent of disease is related to local environmental variables. He loves data visualization and mapping.
