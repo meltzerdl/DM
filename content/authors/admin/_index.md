@@ -42,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Dan Meltzer is a current researcher in the Geography Department at University of California, Santa Barbara. He focuses on understanding how the spatial extent of disease is related to local environmental variables. He loves data visualization and mapping.
+Dan Meltzer is a researcher in the Geography Department at University of California, Santa Barbara. He focuses on understanding how the spatial extent of disease is related to local environmental variables. He loves data visualization and mapping.
