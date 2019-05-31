@@ -136,22 +136,6 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -827,6 +811,68 @@ Figure 1: A fancy pie chart.
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publication/preprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/preprint/</guid>
+      <description>
+
+&lt;h2 id=&#34;draft-true&#34;&gt;draft:true&lt;/h2&gt;
+
+&lt;p&gt;abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
+  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
+  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
+  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
+  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
+  Vestibulum sit amet erat at nulla eleifend gravida.
+authors:
+- admin
+date: &amp;ldquo;2019-04-07T00:00:00Z&amp;rdquo;
+doi: &amp;ldquo;&amp;rdquo;
+featured: false
+image:
+  caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://unsplash.com/photos/s9CC2SKySJM&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Unsplash&lt;/strong&gt;&lt;/a&gt;&amp;lsquo;
+  focal_point: &amp;ldquo;&amp;rdquo;
+  preview_only: false
+links:
+- name: Custom Link
+  url: &lt;a href=&#34;http://example.org&#34; target=&#34;_blank&#34;&gt;http://example.org&lt;/a&gt;
+projects:
+- internal-project
+publication: &amp;ldquo;&amp;rdquo;
+publication_short: &amp;ldquo;&amp;rdquo;
+publication_types:
+- &amp;ldquo;3&amp;rdquo;
+publishDate: &amp;ldquo;2017-01-01T00:00:00Z&amp;rdquo;
+slides: example
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+tags:
+- Source Themes
+title: An example preprint / working paper
+url_code: &amp;lsquo;#&amp;rsquo;
+url_dataset: &amp;lsquo;#&amp;rsquo;
+url_pdf: &lt;a href=&#34;http://arxiv.org/pdf/1512.04133v1&#34; target=&#34;_blank&#34;&gt;http://arxiv.org/pdf/1512.04133v1&lt;/a&gt;
+url_poster: &amp;lsquo;#&amp;rsquo;
+url_project: &amp;ldquo;&amp;rdquo;
+url_slides: &amp;ldquo;&amp;rdquo;
+url_source: &amp;lsquo;#&amp;rsquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;url-video&#34;&gt;url_video: &amp;lsquo;#&amp;rsquo;&lt;/h2&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
