@@ -13,7 +13,7 @@ education:
   - course: ScB in Human Biology
     institution: Brown University
     year: 2009
-email: "dmeltzer [at] ucsb.edu"
+email: "dmeltzer@ucsb.edu"
 interests:
 - Health Equity
 - Environmental Justice
@@ -27,9 +27,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+  #icon_pack: fab
+  #link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=v2xbZQkAAAAJ
