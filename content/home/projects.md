@@ -26,16 +26,20 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Health equity"
+    tag = "Health"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Environment"
+    tag = "Environment"
+  
+  [[content.filter_button]]
+    name = "Spatial Analysis"
+    tag = "Spatial Analysis"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "3"
 
   # Toggle between the various page layout types.
   #   1 = List
