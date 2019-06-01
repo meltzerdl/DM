@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Payam Nahid on Dan Meltzer</title>
+    <link>/authors/payam-nahid/</link>
+    <description>Recent content in Payam Nahid on Dan Meltzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©Dan Meltzer `{year}`</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/payam-nahid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Urban tree coverage associated with reduced mortality among tuberculosis (TB) patients undergoing treatment in California</title>
+      <link>/publication/blount-2016-urban/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/blount-2016-urban/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

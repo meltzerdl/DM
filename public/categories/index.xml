@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on D Meltzer</title>
+    <title>Categories on Dan Meltzer</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on D Meltzer</description>
+    <description>Recent content in Categories on Dan Meltzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>`&amp;copy;`Dan Meltzer `{year}`</copyright>
+    <copyright>©Dan Meltzer `{year}`</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />

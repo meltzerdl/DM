@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michelle Wong on Dan Meltzer</title>
+    <link>/authors/michelle-wong/</link>
+    <description>Recent content in Michelle Wong on Dan Meltzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©Dan Meltzer `{year}`</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/michelle-wong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Combining community engagement and scientific approaches in next-generation monitor siting: the case of the imperial county community air network</title>
+      <link>/publication/wong-2018-combining/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wong-2018-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and field validation of a community-engaged particulate matter air quality monitoring network in Imperial, California, USA</title>
+      <link>/publication/carvlin-2017-development/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/carvlin-2017-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Imperial County Community Air Monitoring Network: A model for community-based environmental monitoring for public health action</title>
+      <link>/publication/english-2017-imperial/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/english-2017-imperial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community engagement in development of a community air monitoring network in Imperial County, California</title>
+      <link>/publication/wilkie-2016-community/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wilkie-2016-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a Web-based tool to collect and display water system customer service areas for public health action</title>
+      <link>/publication/wong-2015-development/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wong-2015-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engaging Imperial County Communities In Participatory Hazard And Asset Mapping And Development Of Public Health Actions</title>
+      <link>/publication/meltzer-2015-engaging/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/meltzer-2015-engaging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

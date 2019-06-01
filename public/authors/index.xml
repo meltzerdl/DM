@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on D Meltzer</title>
+    <title>Authors on Dan Meltzer</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on D Meltzer</description>
+    <description>Recent content in Authors on Dan Meltzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>`&amp;copy;`Dan Meltzer `{year}`</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>©Dan Meltzer `{year}`</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,18 +15,396 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>Dan Meltzer is a researcher in the Geography Department at University of California, Santa Barbara. He focuses on understanding how the spatial extent of disease is related to local environmental variables. He loves data visualization and mapping.</description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title> others</title>
+      <link>/authors/others/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/robert-ford/</guid>
+      <guid>/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amanda Northcross</title>
+      <link>/authors/amanda-northcross/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/amanda-northcross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Meltzer</title>
+      <link>/authors/dan-meltzer/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dan-meltzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esther Bejarano</title>
+      <link>/authors/esther-bejarano/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/esther-bejarano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galatea King</title>
+      <link>/authors/galatea-king/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/galatea-king/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graeme Carvlin</title>
+      <link>/authors/graeme-carvlin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/graeme-carvlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humberto Lugo</title>
+      <link>/authors/humberto-lugo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/humberto-lugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katie Fellows</title>
+      <link>/authors/katie-fellows/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/katie-fellows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis Olmedo</title>
+      <link>/authors/luis-olmedo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/luis-olmedo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Jerrett</title>
+      <link>/authors/michael-jerrett/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/michael-jerrett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michelle Wong</title>
+      <link>/authors/michelle-wong/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/michelle-wong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexa Wilkie</title>
+      <link>/authors/alexa-wilkie/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/alexa-wilkie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brenda Jones</title>
+      <link>/authors/brenda-jones/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/brenda-jones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donald G Catanzaro</title>
+      <link>/authors/donald-g-catanzaro/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/donald-g-catanzaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edmund Seto</title>
+      <link>/authors/edmund-seto/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/edmund-seto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Murillo</title>
+      <link>/authors/eduardo-murillo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/eduardo-murillo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ester Bejarano</title>
+      <link>/authors/ester-bejarano/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ester-bejarano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graeme N Carvlin</title>
+      <link>/authors/graeme-n-carvlin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/graeme-n-carvlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jennifer Flood</title>
+      <link>/authors/jennifer-flood/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jennifer-flood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Balmes</title>
+      <link>/authors/john-balmes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/john-balmes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lisa Pascopella</title>
+      <link>/authors/lisa-pascopella/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lisa-pascopella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark R Segal</title>
+      <link>/authors/mark-r-segal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mark-r-segal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul B English</title>
+      <link>/authors/paul-b-english/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/paul-b-english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pennan M Barry</title>
+      <link>/authors/pennan-m-barry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pennan-m-barry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert J Blount</title>
+      <link>/authors/robert-j-blount/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/robert-j-blount/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Jones</title>
+      <link>/authors/b-jones/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/b-jones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Meltzer</title>
+      <link>/authors/d-meltzer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/d-meltzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Balmes</title>
+      <link>/authors/j-balmes/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/j-balmes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Flood</title>
+      <link>/authors/j-flood/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/j-flood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenny Flood</title>
+      <link>/authors/jenny-flood/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jenny-flood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Pascopella</title>
+      <link>/authors/l-pascopella/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/l-pascopella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Segal</title>
+      <link>/authors/m-segal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/m-segal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P English</title>
+      <link>/authors/p-english/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/p-english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Nahid</title>
+      <link>/authors/p-nahid/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/p-nahid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PM Barry</title>
+      <link>/authors/pm-barry/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pm-barry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul English</title>
+      <link>/authors/paul-english/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/paul-english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Payam Nahid</title>
+      <link>/authors/payam-nahid/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/payam-nahid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pennan Barry</title>
+      <link>/authors/pennan-barry/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pennan-barry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RJ Blount</title>
+      <link>/authors/rj-blount/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rj-blount/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Zamora</title>
+      <link>/authors/carlos-zamora/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/carlos-zamora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Craig Wolff</title>
+      <link>/authors/craig-wolff/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/craig-wolff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liang Guo</title>
+      <link>/authors/liang-guo/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/liang-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalie Collins</title>
+      <link>/authors/natalie-collins/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/natalie-collins/</guid>
       <description></description>
     </item>
     

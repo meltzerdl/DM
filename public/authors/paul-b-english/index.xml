@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul B English on Dan Meltzer</title>
+    <link>/authors/paul-b-english/</link>
+    <description>Recent content in Paul B English on Dan Meltzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©Dan Meltzer `{year}`</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/paul-b-english/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Imperial County Community Air Monitoring Network: A model for community-based environmental monitoring for public health action</title>
+      <link>/publication/english-2017-imperial/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/english-2017-imperial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic-related air pollution and all-cause mortality during tuberculosis treatment in California</title>
+      <link>/publication/blount-2017-traffic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/blount-2017-traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban tree coverage associated with reduced mortality among tuberculosis (TB) patients undergoing treatment in California</title>
+      <link>/publication/blount-2016-urban/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/blount-2016-urban/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edmund Seto on Dan Meltzer</title>
+    <link>/authors/edmund-seto/</link>
+    <description>Recent content in Edmund Seto on Dan Meltzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©Dan Meltzer `{year}`</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/edmund-seto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Imperial County Community Air Monitoring Network: A model for community-based environmental monitoring for public health action</title>
+      <link>/publication/english-2017-imperial/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/english-2017-imperial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

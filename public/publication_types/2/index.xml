@@ -1,24 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on D Meltzer</title>
+    <title>2 on Dan Meltzer</title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on D Meltzer</description>
+    <description>Recent content in 2 on Dan Meltzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>`&amp;copy;`Dan Meltzer `{year}`</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <copyright>©Dan Meltzer `{year}`</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Combining community engagement and scientific approaches in next-generation monitor siting: the case of the imperial county community air network</title>
+      <link>/publication/wong-2018-combining/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal-article/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+      <guid>/publication/wong-2018-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and field validation of a community-engaged particulate matter air quality monitoring network in Imperial, California, USA</title>
+      <link>/publication/carvlin-2017-development/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/carvlin-2017-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Imperial County Community Air Monitoring Network: A model for community-based environmental monitoring for public health action</title>
+      <link>/publication/english-2017-imperial/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/english-2017-imperial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic-related air pollution and all-cause mortality during tuberculosis treatment in California</title>
+      <link>/publication/blount-2017-traffic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/blount-2017-traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D107 TUBERCULOSIS INFECTION AND DISEASE: EPIDEMIOLOGY AND DIAGNOSIS: Effects Of Traffic-Related Pollution On Tuberculosis Presentation And Outcomes In California</title>
+      <link>/publication/blount-2016-d-107/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/blount-2016-d-107/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a Web-based tool to collect and display water system customer service areas for public health action</title>
+      <link>/publication/wong-2015-development/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wong-2015-development/</guid>
+      <description></description>
     </item>
     
   </channel>

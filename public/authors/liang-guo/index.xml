@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liang Guo on Dan Meltzer</title>
+    <link>/authors/liang-guo/</link>
+    <description>Recent content in Liang Guo on Dan Meltzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©Dan Meltzer `{year}`</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/liang-guo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development of a Web-based tool to collect and display water system customer service areas for public health action</title>
+      <link>/publication/wong-2015-development/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wong-2015-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
