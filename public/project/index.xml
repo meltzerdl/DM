@@ -39,5 +39,14 @@
       <description>An interactive data display showing locations of Valley Fever cases (by county) and dust storms (by location) in California for the years 2001-2015</description>
     </item>
     
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>An example of using the in-built project page.</description>
+    </item>
+    
   </channel>
 </rss>
