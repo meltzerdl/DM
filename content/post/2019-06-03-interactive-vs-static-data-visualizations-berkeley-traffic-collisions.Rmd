@@ -31,5 +31,7 @@ The following data about traffic collisions in Berkeley, California can be used 
 
 <iframe width="1000" height="650" scrolling="no" frameborder="no"  src="https://dmeltz.shinyapps.io/DustStorms_ValleyFever/"> </iframe>
 
-<iframe width="1000" height="650" scrolling="no" frameborder="no"  src="https://public.tableau.com/shared/TZNY85855?:display_count=no&:origin=viz_share_link"> </iframe>
+<iframe 
+src="https://public.tableau.com/views/Tutorial_17/Allitems?:embed=y&:display_count=no&:origin=viz_share_link"
+width="1000" height="650"> </iframe>
 
