@@ -1,0 +1,31 @@
+---
+title: 'Interactive vs. Static data visualizations: Berkeley traffic collisions'
+author: Dan Meltzer
+date: '2019-06-03'
+slug: interactive-vs-static-data-visualizations-berkeley-traffic-collisions
+categories: []
+tags:
+  - Environment
+  - Spatial Analysis
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-06-03T22:45:55-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+With the era of web 2.0, data visualizations can be interactive, and science communication can be that much more effective. Many of the previous visualizations developed were intended to draw interest from the user by encouraging the user to engage with the visualization on the level of thinking about the content represented. By grabbing audience attention using clever graphic design, users were able to understand and consolidate the content better.
+
+However, now that we are able to relatively easily create interactive visualizations, we can much more effectively communicate complex concepts and extend a single data visualization into a tool for conveying multiple and nuanced lessons about the data. This may not always be necessary or useful, but in cases where there are several key messages to be gleaned from the dataset, it can be.
+
+The following data about traffic collisions in Berkeley, California can be used as a useful example.
+
