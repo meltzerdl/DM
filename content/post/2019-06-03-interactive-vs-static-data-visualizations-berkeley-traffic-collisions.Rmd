@@ -31,7 +31,8 @@ The following data about traffic collisions in Berkeley, California can be used 
 
 The first image displays a map of all collisions in Berkeley in 2011 involving injury of a bicyclist. The amount of data conveyed here is limited: we might be curious about other years, about which streets, specifically were most dangerous for bicyclists, what types of collisions resulted in the most bicyclist injuries, and whether or not there was alcohol or drunk driving involved in any of these collisions.
 
-![**Collisions in Berkeley resulting in bicyclist injuries, 2011**](./collisions.png)
+![**Collisions in Berkeley resulting in bicyclist injuries, 2011**](/img/collisions.png)
+![legend](/img/legend.png)
 
 To provide a much richer look at each of these issues, a visualization can be prepared that would be directed at a more sophisticated audience, providing the ability to engage with and browse the data.
 
