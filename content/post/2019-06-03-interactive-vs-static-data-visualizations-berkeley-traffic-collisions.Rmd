@@ -29,9 +29,15 @@ However, now that we are able to relatively easily create interactive visualizat
 
 The following data about traffic collisions in Berkeley, California can be used as a useful example.
 
-<iframe width="1000" height="650" scrolling="no" frameborder="no"  src="https://dmeltz.shinyapps.io/DustStorms_ValleyFever/"> </iframe>
+The first image displays a map of all collisions in Berkeley in 2011 involving injury of a bicyclist. The amount of data conveyed here is limited: we might be curious about other years, about which streets, specifically were most dangerous for bicyclists, what types of collisions resulted in the most bicyclist injuries, and whether or not there was alcohol or drunk driving involved in any of these collisions.
 
-<iframe 
-src="https://public.tableau.com/views/Tutorial_17/Allitems?:embed=y&:display_count=no&:origin=viz_share_link"
-width="1000" height="650"> </iframe>
+![Collisions in Berkeley resulting in bicyclist injuries, 2011](images/collisions.png)
+
+To provide a much richer look at each of these issues, a visualization can be prepared that would be directed at a more sophisticated audience, providing the ability to engage with and browse the data.
+
+Click on [this link](https://public.tableau.com/profile/dm4075#!/vizhome/BerkeleyCollisionsForSite/Dashboard?publish=yes) to browse the interactive visualiation.
+
+
+
+
 
