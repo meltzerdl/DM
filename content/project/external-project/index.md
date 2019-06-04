@@ -6,6 +6,7 @@ image:
   focal_point: Smart
 summary: An interactive data display showing locations of Valley Fever cases (by county) and dust storms (by location) in California for the years 2001-2015
 tags:
-- Demo
+- Spatial Analysis
+- Environment
 title: Valley Fever and Dust Storms in California
 ---

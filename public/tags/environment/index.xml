@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment on Dan Meltzer</title>
+    <link>/tags/environment/</link>
+    <description>Recent content in Environment on Dan Meltzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©Dan Meltzer `{year}`</copyright>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interactive versus static visualizations: Berkeley traffic Collisions</title>
+      <link>/post/interactive-versus-static-visualizations-berkeley-traffic-collisions/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/interactive-versus-static-visualizations-berkeley-traffic-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imperial County Air Pollutants</title>
+      <link>/project/external-project-copy-2/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/external-project-copy-2/</guid>
+      <description>An interactive data visualization of air pollutants in Imperial County, California.</description>
+    </item>
+    
+    <item>
+      <title>Valley Fever and Dust Storms in California</title>
+      <link>/project/external-project/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/external-project/</guid>
+      <description>An interactive data display showing locations of Valley Fever cases (by county) and dust storms (by location) in California for the years 2001-2015</description>
+    </item>
+    
+  </channel>
+</rss>

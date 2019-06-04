@@ -21,23 +21,5 @@
       <description>An interactive data visualization of air pollutants in Imperial County, California.</description>
     </item>
     
-    <item>
-      <title>Traffic Collisions in Berkeley</title>
-      <link>/project/external-project-copy/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/external-project-copy/</guid>
-      <description>An interactive data display showing collisions in Berkeley for the year 2002</description>
-    </item>
-    
-    <item>
-      <title>Valley Fever and Dust Storms in California</title>
-      <link>/project/external-project/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/external-project/</guid>
-      <description>An interactive data display showing locations of Valley Fever cases (by county) and dust storms (by location) in California for the years 2001-2015</description>
-    </item>
-    
   </channel>
 </rss>

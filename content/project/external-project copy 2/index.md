@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: An interactive data visualization of air pollutants in Imperial County, California. 
 tags:
-- Demo
+- Environment
 title: Imperial County Air Pollutants
 ---

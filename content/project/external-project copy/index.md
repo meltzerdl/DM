@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: An interactive data display showing collisions in Berkeley for the year 2002
 tags:
-- Demo
+- Spatial Analysis
 title: Traffic Collisions in Berkeley
 ---
