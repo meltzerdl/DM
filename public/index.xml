@@ -120,7 +120,7 @@
 &lt;p&gt;With the era of web 2.0, data visualizations can be interactive, and science communication can be that much more effective. Many of the previous visualizations developed were intended to draw interest from the user by encouraging the user to engage with the visualization on the level of thinking about the content represented. By grabbing audience attention using clever graphic design, users were able to understand and consolidate the content better.&lt;/p&gt;
 &lt;p&gt;However, now that we are able to relatively easily create interactive visualizations, we can much more effectively communicate complex concepts and extend a single data visualization into a tool for conveying multiple and nuanced lessons about the data. This may not always be necessary or useful, but in cases where there are several key messages to be gleaned from the dataset, it can be.&lt;/p&gt;
 &lt;p&gt;The following data about traffic collisions in Berkeley, California can be used as a useful example.&lt;/p&gt;
-&lt;iframe width=&#34;450&#34; height=&#34;400&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://dmeltz.shinyapps.io/DustStorms_ValleyFever/&#34;&gt;
+&lt;iframe width=&#34;1000&#34; height=&#34;1000&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://dmeltz.shinyapps.io/DustStorms_ValleyFever/&#34;&gt;
 &lt;/iframe&gt;
 </description>
     </item>
